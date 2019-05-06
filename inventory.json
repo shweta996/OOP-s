@@ -1,0 +1,24 @@
+{
+			"rice":
+			[	
+					{"name":"long grain rice","price":175,"weight":25},
+					{"name":"Basmati rice","price":260,"weight":20},
+					{"name":"Jasmine rice",/home/user/eclipse-workspace/OOP/writefile.json"price":155,"weight":15},
+					{"name":"White rice","price":365,"weight":30}
+					],
+	
+			"pulses":[
+						{"name":"peal","price":280,"weight":25},
+						{"name":"green gram","price":570,"weight":50},
+						{"name":"Moth dal ","price":170,"weight":25},
+						{"name":"Bambara Beans ","price":250,"weight":25}
+					 ],
+	
+			"wheats":[
+						{"name":"Bread Flour wheat","price":375,"weight":25},
+						{"name":"Pastry Flour wheat","price":100,"weight":50},
+						{"name":"Cake Flour wheat","price":220,"weight":50},
+						{"name":"wheat","price":50,"weight":225}
+					]
+
+}

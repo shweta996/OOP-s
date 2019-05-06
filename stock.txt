@@ -1,0 +1,4 @@
+idea 40 10000
+vodafone 50 50000
+jio 20  30000
+Airtel 60 60000

@@ -1,0 +1,14 @@
+{
+	"first":[
+		{"name":"Idea","share":5,"price":12000,"date": "1-2-2012"}
+		],
+	"second":[
+			{"name":"jio","share":7,"price":17000,"date":"8-4-2015"}
+			],
+	"third":[
+			{"name":"Airtel","share":12,"price":15000,"date":"15-7-2016"}
+			],
+	"fourth":[
+			{"name":"Vodafone","share":13,"price":17000,"date":"26-9-2017"}
+			]
+}
